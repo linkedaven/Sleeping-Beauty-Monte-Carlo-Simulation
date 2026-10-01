@@ -11,7 +11,7 @@ awakenings from one million simulated experiments.
 
 ## Output
 
-![Sleeping Beauty simulation dashboard](assets/screenshot.png)
+![Sleeping Beauty simulation dashboard](assets/demo.png)
 
 *A typical run: about one third of all awakenings follow a Heads flip, so
 "Always Tails" is correct on about two thirds of awakenings even though
